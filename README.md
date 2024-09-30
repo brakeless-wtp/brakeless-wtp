@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 |Elfi|06/20/2024 - 06/27/2024|1|66|
 |SymmIO Update|06/22/2024 - 06/24/2024|18|43|
 |Notional|07/03/2024 - 07/05/2024|1|42|
-
+| | | |
 |Perennial V2 Update #3|09/13/2024|3|50|
