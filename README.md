@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 |Notional|07/03/2024 - 07/05/2024|1|42|
 | | | |
 |Perennial V2 Update #3|09/13/2024|3|50|
+|Boost Core Incentive|09/20/2024|6|27|
