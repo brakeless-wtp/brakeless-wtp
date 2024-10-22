@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 | | | |
 |Perennial V2 Update #3|09/13/2024|3|50|
 |Boost Core Incentive|09/20/2024|6|27|
+|SYMMIO Update|10/08/2024|2|20|
