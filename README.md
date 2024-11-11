@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 |Boost Core Incentive|09/20/2024|6|27|
 |Morph L2|09/23/2024|7|38|
 |SYMMIO Update|10/08/2024|2|20|
+|Axion|10/15/2024|6|41|
